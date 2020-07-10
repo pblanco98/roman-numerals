@@ -1,0 +1,15 @@
+.button-primary {
+    position:absolute;
+    transition: .5s ease;
+    top: 50%;
+    left: 50%;
+    
+}
+.converted-number {
+    float: right;
+    padding-right: 100px;
+}
+#app{
+    text-align: center;
+    font-size: 60px;
+}
